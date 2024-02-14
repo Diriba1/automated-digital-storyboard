@@ -1,0 +1,1 @@
+Based on their answers, a recommended destination is revealed, along with a 'Discover More' button.

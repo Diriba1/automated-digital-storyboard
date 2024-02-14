@@ -1,0 +1,1 @@
+The ad starts with a 'Choose Your Adventure' prompt, with options representing different types of travel experiences.

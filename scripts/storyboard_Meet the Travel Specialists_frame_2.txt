@@ -1,0 +1,1 @@
+Upon selecting a Specialist, users are presented with a brief profile of the Specialist, highlighting their expertise and passion for travel.

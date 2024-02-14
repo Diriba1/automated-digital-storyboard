@@ -1,0 +1,1 @@
+Users are prompted to choose their own adventure by selecting different LEGO characters and scenarios.

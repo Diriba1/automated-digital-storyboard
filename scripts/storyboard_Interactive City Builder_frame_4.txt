@@ -1,0 +1,1 @@
+The user's city is now fully built and animated. A 'Play' button appears, inviting the user to start the 'ULTIMATE ESCAPE CHALLENGE'.

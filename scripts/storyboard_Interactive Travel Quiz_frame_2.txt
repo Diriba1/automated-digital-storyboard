@@ -1,0 +1,1 @@
+Users are presented with a series of questions to determine their travel preferences.

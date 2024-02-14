@@ -1,0 +1,1 @@
+Upon tapping, the map zooms into a specific country, showcasing a local artist with a snippet of their music playing. The Coca-Cola logo and Coke Studio branding are subtly integrated.

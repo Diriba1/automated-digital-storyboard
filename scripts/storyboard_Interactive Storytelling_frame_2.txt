@@ -1,0 +1,1 @@
+Depending on the user's choice, the scene transitions to a unique, animated story set in the chosen part of the city.

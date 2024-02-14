@@ -1,0 +1,1 @@
+A brief description of the chosen location appears, along with a 'Book Now' button.

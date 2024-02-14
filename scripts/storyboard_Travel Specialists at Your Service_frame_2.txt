@@ -1,0 +1,1 @@
+The screen transitions to a carousel of travel specialists, each with a brief bio and their areas of expertise.

@@ -1,0 +1,1 @@
+A carousel of cultural icons from various destinations. Users are prompted to swipe left or right to explore.
