@@ -1,0 +1,1 @@
+A call-to-action button appears with the text 'Start Discovering'. Upon tapping, the user is redirected to the booking page.

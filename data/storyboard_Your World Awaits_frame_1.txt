@@ -1,0 +1,1 @@
+A door appears, with the text 'Your World Awaits' appearing as the user swipes to open the door.

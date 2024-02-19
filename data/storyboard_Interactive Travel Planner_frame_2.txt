@@ -1,0 +1,1 @@
+Based on the user's choice, a less conventional destination that matches their interest is revealed, along with a brief description.

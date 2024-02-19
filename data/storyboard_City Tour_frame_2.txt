@@ -1,0 +1,1 @@
+The scene transitions to a first-person view of the city. Users can swipe to navigate through the city and tap on buildings to learn more about them.

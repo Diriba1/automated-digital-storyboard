@@ -1,0 +1,1 @@
+A map of the world appears, with the text 'Uncover the World' appearing as the user swipes to reveal hidden locations.

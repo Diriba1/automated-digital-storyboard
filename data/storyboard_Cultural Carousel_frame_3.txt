@@ -1,0 +1,1 @@
+A 'Discover More' button appears, inviting users to learn more about the selected destination and its offerings.
