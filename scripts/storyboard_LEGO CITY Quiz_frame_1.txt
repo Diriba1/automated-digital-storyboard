@@ -1,1 +1,0 @@
-An animated LEGO character invites users to take a LEGO CITY quiz. A 'Tap to Start' button is displayed.

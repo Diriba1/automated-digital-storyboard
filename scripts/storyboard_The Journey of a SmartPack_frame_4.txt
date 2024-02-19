@@ -1,1 +1,0 @@
-The user swipes to navigate through the different compartments. Each swipe reveals a new feature of the SmartPack.

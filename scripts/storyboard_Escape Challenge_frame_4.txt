@@ -1,1 +1,0 @@
-The final frame displays a 'Congratulations' message and invites users to continue the adventure on the LEGO website, with a clear call-to-action.

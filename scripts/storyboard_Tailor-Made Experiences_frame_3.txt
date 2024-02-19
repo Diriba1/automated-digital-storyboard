@@ -1,1 +1,0 @@
-The final frame shows a brief description of the chosen location, along with a 'Start Your Journey' button.

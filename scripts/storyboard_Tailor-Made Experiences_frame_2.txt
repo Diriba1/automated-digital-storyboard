@@ -1,1 +1,0 @@
-The screen transitions to a 'Choose Your Destination' interactive map, where users can select their preferred location.

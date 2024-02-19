@@ -1,1 +1,0 @@
-The third frame shows the character successfully escaping from the scenario, thanking the user and moving forward in the city.

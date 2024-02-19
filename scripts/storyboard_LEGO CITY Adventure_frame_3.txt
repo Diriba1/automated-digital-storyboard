@@ -1,1 +1,0 @@
-The adventure concludes with a 'Visit LEGO CITY' button, redirecting users to the website.

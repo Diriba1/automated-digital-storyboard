@@ -1,1 +1,0 @@
-The final frame shows a brief description of the chosen experience, along with a 'Book Your Experience' button.

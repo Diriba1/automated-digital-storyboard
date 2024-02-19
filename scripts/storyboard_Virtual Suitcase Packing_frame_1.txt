@@ -1,1 +1,0 @@
-The ad starts with a virtual suitcase and a selection of items to pack. Users are prompted to drag and drop items into the suitcase.

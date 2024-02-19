@@ -1,1 +1,0 @@
-The quiz concludes with a 'See Your Score' button, redirecting users to the website.

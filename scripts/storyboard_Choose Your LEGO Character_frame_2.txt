@@ -1,1 +1,0 @@
-The scene transitions to a selection of LEGO characters. The user is prompted to choose a character to navigate the escape scenario.

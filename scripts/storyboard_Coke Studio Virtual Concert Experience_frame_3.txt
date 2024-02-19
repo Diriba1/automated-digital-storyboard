@@ -1,1 +1,0 @@
-The frame transitions to a 360-degree view of the virtual concert, where users can swipe to look around. Each swipe reveals different parts of the concert.

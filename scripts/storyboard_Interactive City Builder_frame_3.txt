@@ -1,1 +1,0 @@
-As the user drags and drops LEGO sets onto the canvas, they begin to build their own city. The city comes to life with animations and sound effects.

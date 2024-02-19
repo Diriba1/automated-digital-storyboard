@@ -1,1 +1,0 @@
-The second frame presents the first escape challenge - a locked door. Users are prompted to select the correct LEGO piece to unlock the door.

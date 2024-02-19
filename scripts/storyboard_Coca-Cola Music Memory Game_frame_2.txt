@@ -1,1 +1,0 @@
-Tapping the button reveals a grid of Coca-Cola bottle caps, each representing a different Latin American country and music genre. Users match pairs by tapping.

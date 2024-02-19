@@ -1,1 +1,0 @@
-An animated LEGO character invites users to join an adventure in LEGO CITY. A 'Tap to Start' button is displayed.

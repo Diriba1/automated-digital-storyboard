@@ -1,1 +1,0 @@
-The screen transitions to a 'Choose Your Experience' interactive menu, where users can select their preferred cultural experience.

@@ -1,1 +1,0 @@
-Tapping the CTA turns the screen into an interactive beat mixer with elements representing different Latin American music styles. Users can tap to add beats.
